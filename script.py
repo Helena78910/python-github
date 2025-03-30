@@ -1,5 +1,3 @@
-num_list = []
+num_list = [i for i in range(10)]
 
-for i in range(10):
-	num_list.append(i)
 print(num_list)
